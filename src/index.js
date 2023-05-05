@@ -1,4 +1,4 @@
-import {
+/*import {
   View,
   TouchableOpacity,
   Text
@@ -132,4 +132,10 @@ function SrApp_Alert({
 
 module.exports = {
   all: SrApp_Alert
+}*/
+
+function Power2Alert() {
+  return "Funcional! by Toni!";
 }
+
+module.exports = Power2Alert;
